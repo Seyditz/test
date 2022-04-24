@@ -1,0 +1,7 @@
+testbtanch.txt:
+aaaa
+bbb
+vvv
+d
+dd
+nmabah detail
